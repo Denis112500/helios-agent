@@ -12,9 +12,9 @@ A custom Python AI agent built from scratch. Positioned as a "build-your-own-age
 - NO frameworks (no LangChain, CrewAI, AutoGen, smolagents) — building from primitives is the entire point
 
 ## Build phases
-- [ ] Phase 0: setup (venv, .gitignore, README) ← current
-- [ ] Phase 1: GPT-4.1 reply via LiteLLM
-- [ ] Phase 2: agent loop with conversation history
+- [x] Phase 0: setup (venv, .gitignore, README) ← current
+- [x] Phase 1: GPT-4.1 reply via LiteLLM
+- [x] Phase 2: agent loop with conversation history
 - [ ] Phase 3: tool calling (read_file, list_directory)
 - [ ] Phase 4: dangerous tools with confirmation (write_file, run_shell_command)
 - [ ] Phase 5: rich terminal UI + SQLite persistence
