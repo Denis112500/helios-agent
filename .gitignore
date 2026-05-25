@@ -14,6 +14,7 @@ venv/
 # Local config / secrets
 .env
 .env.local
+notes.md
 
 # SQLite (we'll add db files later)
 *.db
